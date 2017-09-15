@@ -1,0 +1,37 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form{
+  text-align: center;
+}
+.card{
+  margin: 3vw;
+  width: 23vw;
+  height: 35vw;
+}
+.jumbo_box{
+  background: white;
+}
+.pilot_box{
+  height: 15vw;
+  text-align: center;
+  background: white;
+}
+.App{
+  /*display: flex;
+  flex-wrap: wrap;*/
+}
+.card-block{
+  length: 30vw;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card_box{
+  display: flex;
+  flex-wrap: wrap;
+}
